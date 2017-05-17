@@ -1,7 +1,6 @@
 ---
 title: 操作系统实验四之共享内存
 tags: OS,进程间通信
-grammar_cjkRuby: true
 ---
 
 > Desc:
@@ -31,4 +30,3 @@ grammar_cjkRuby: true
 
 
   [1]: https://github.com/mushroom-x/OS-Assignment-2016
- 
